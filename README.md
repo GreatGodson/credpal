@@ -32,7 +32,7 @@ This architecture ensures:
 
 ## NB: The App contains animations, so screenshots might not look well aligned due to playing animations,
 
-## kindly follow this link to see demo video of the app
+## kindly follow this [link](https://drive.google.com/file/d/12vRtjAjyVtMeoanIU4IMcIFcFGZtqriI/view?usp=sharing) to see demo video of the app
 
 |                    Dashboard Screen                    |                     Dashboard Page                     | 
 |:------------------------------------------------------:|:------------------------------------------------------:|  
